@@ -1,1 +1,1 @@
-# eazybytes-config# microservice-config
+# microservice 학습용config repository
